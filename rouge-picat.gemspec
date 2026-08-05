@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name = "rouge-picat"
-  s.version = "0.1.0"
+  s.version = "0.1.1"
   s.authors = ["Arclight Automata"]
   s.email = ["root@arclight.run"]
   s.summary = "A Picat language plugin for Rouge"
@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
     Support for the Picat programming language (picat-lang.org) for Rouge
   desc
 
-  s.homepage = "https://github.com/arclight-automata/rouge-picat"
+  s.homepage = "https://github.com/arclight0/rouge-picat"
   s.files = Dir['Gemfile', 'LICENSE', 'README.md', 'rouge-picat.gemspec', 'lib/**/*.rb']
   s.licenses = ['MIT']
   s.required_ruby_version = '>= 3.0'
